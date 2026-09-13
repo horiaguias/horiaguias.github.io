@@ -6,7 +6,7 @@
 
 
 ---
-L
+
 ## Job Market Paper
 
 ### "Perceived Responsibility for Negative Externalities and Individual Behaviour"
@@ -33,11 +33,11 @@ L
 
 ## Teaching
 
-### "Graduate Level" 
+### Graduate Level
 * **Master Projects (2023-2026)** (TA for Prof. Carril/Prof. Monràs, Barcelona School of Economics)
 * **Industrial Organization (2024)** (TA for Prof. Shelegia, Barcelona School of Economics)
 
-### "Undergraduate Level"
+### Undergraduate Level
 * **Topics in Microeconomic Theory (2023-2025)** (TA for Prof. Alaoui/Prof. Apesteguia/Prof. Frug/Prof. Nagel/Prof. Shelegia, UPF)
 * **Microeconomics III: Information Economics (2023-2025)** (TA for Prof. Shelegia, UPF)
 * **Microeconomics I: Consumer Theory** (TA for Prof. Gaessler, UPF)
