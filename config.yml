@@ -41,7 +41,7 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
+          enabled: false
           title: Horia Guias
           subtitle: "Welcome! I am a Job Market Candidate from Universitat Pompeu Fabra. I am a Behavioral and Experimental Economist working on topics related to perceived responsibility and how it affects economic decision-making."
           imageUrl: picture.jpeg
