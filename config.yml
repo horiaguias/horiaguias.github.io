@@ -1,5 +1,5 @@
 baseURL: "https://horiaguias.github.io/" 
-title: Moritz-Maria von Igelfeld
+title: Horia Guias
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,13 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          weight: 5
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "Welcome! I am a Job Market Candidate from Universitat Pompeu Fabra. I am a Behavioral and Experimental Economist working on topics related to perceived responsibility and how it affects economic decision-making."
+    author: Horia Guias
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
     defaultTheme: light
