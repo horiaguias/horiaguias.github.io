@@ -20,6 +20,12 @@ params:
     description: "Welcome! I am a Job Market Candidate from Universitat Pompeu Fabra. I am a Behavioral and Experimental Economist working on topics related to perceived responsibility and how it affects economic decision-making."
     author: Horia Guias
     # googleAnalyticsID: G-XXXXX
+
+    # Google Search Console Verification
+    analytics:
+        google:
+            SiteVerificationTag: "ffu_-qotLVbhuUQa_dnVPr7TJy4179FJvKFeRJYewQA"
+    
     DateFormat: January 2006
     defaultTheme: light
     hideFooter: false
@@ -41,16 +47,16 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: false
-          title: Horia Guias
-          subtitle: "Welcome! I am a Job Market Candidate from Universitat Pompeu Fabra. I am a Behavioral and Experimental Economist working on topics related to perceived responsibility and how it affects economic decision-making."
-          imageUrl: picture.jpeg
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Papers
-              url: papers/
-
+      enabled: false
+      title: Horia Guias
+      subtitle: "Welcome! I am a Job Market Candidate from Universitat Pompeu Fabra. I am a Behavioral and Experimental Economist working on topics related to perceived responsibility and how it affects economic decision-making."
+      imageUrl: picture.jpeg
+      imageWidth: 160
+      imageHeight: 160
+      buttons:
+        - name: Papers
+          url: papers/
+          
     socialIcons:
         - name: CV
           url: cv.pdf
