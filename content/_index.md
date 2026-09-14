@@ -1,3 +1,7 @@
+<head>
+  <meta name="google-site-verification" content="ffu_-qotLVbhuUQa_dnVPr7TJy4179FJvKFeRJYewQA" />
+</head>
+
 <img src="picture.jpeg" alt="Horia Guias" width="160" style="border-radius: 50%;">
 
 # Horia Guias
