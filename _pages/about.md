@@ -31,7 +31,7 @@ shapes individual and firm behaviour.
 </details>
 
 <div style="height: 10px;"></div>
----
+
 
 ## Price-Discrimination with Responsibility-Sensitive Consumers
 [Download Paper](https://horiaguias.github.io/pd_responsibility) 
