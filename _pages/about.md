@@ -27,7 +27,8 @@ I am a Behavioral and Experimental Economist and this year I am on the 2026-2027
 ---
 
 ## Price-Discrimination with Responsibility-Sensitive Consumers
-[Download Paper](https://horiaguias.github.io/pd_responsibility)[Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
+[Download Paper](https://horiaguias.github.io/pd_responsibility) 
+[Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
 
 **Abstract**
 
