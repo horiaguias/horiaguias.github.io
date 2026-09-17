@@ -13,7 +13,7 @@ I am a Behavioral and Experimental Economist and this year I am on the 2026-2027
 <div style="height: 40px;"></div>
 
 
-
+---
 # Working Papers
 ---
 
@@ -40,6 +40,7 @@ I am a Behavioral and Experimental Economist and this year I am on the 2026-2027
 
 <div style="height: 40px;"></div>
 
+---
 # Teaching Experience
 ---
 
