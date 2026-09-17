@@ -19,6 +19,7 @@ I am a Behavioral and Experimental Economist and this year I am on the 2026-2027
 
 ## Perceived Responsibility for Negative Externalities
 [Download Paper](https://horiaguias.github.io/jmp) 
+[Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
 
 <details style="cursor: pointer; margin-top: 10px;">
   <summary><b>Abstract</b></summary>
@@ -32,7 +33,7 @@ I am a Behavioral and Experimental Economist and this year I am on the 2026-2027
 
 ## Price-Discrimination with Responsibility-Sensitive Consumers
 [Download Paper](https://horiaguias.github.io/pd_responsibility) 
-[Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
+
 
 **Abstract**
 
