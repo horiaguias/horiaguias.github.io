@@ -21,7 +21,7 @@ Working Papers
 
 
 ## Price-Discrimination with Responsibility-Sensitive Consumers
-[Download Paper](https://horiaguias.github.io/pd_responsibility)
+[Download Paper](https://horiaguias.github.io/pd_responsibility)[Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
 
 **Abstract**
 
