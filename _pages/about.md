@@ -54,5 +54,5 @@ shapes individual and firm behaviour.
   * **Topics in Microeconomics (2023-2026)**: TA for Larbi Alaoui/José Apesteguia/Alexander Frug/Rosemarie Nagel/Sandro Shelegia
   * **Information Economics (2023-2025)**: TA for Sandro Shelegia
   * **Microeconomics I (Spring 2023)**: TA for Fabian Gaessler
-  * **Ànalisis de Datos (2023-2025)**: TA for Claudia Sanguinetti (Spanish)
+  * **Análisis de Datos (2023-2025)**: TA for Claudia Sanguinetti (Spanish)
 

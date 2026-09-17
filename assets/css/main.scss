@@ -38,21 +38,3 @@
     "layout/json_cv"
 ;
 
-/* Reduce top/bottom padding of the footer */
-.page__footer {
-  padding: 0.5rem 0 !important;
-  margin-top: 1.5rem !important;
-}
-
-/* Compact the 'Follow' and copyright text rows */
-.page__footer-follow,
-.page__footer-copyright {
-  font-size: 0.75rem !important;
-  margin: 0 !important;
-  padding: 2px 0 !important;
-}
-
-/* Shrink social icons and list spacing in footer */
-.page__footer-follow .social-icons {
-  margin-bottom: 0 !important;
-}
