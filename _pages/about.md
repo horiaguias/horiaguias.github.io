@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-I am a Behavioral and Experimental Economist and this year I am on the 2026-2027 Econ Job Market!
+I am a Behavioral and Experimental Economist and this year I am on the 2026-2027 Econ Job Market! 
+I study theoretically and experimentally how perceived responsibility for negative externalities 
+shapes individual and firm behaviour.
 
 <div style="height: 40px;"></div>
 
