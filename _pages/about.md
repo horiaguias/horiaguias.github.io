@@ -37,10 +37,11 @@ I am a Behavioral and Experimental Economist and this year I am on the 2026-2027
 # Teaching Experience
 ---
 
-* Graduate Level
+* Barcelona School of Economics (Graduate)
   * **Industrial Organization (Spring 2024)**: TA for Sandro Shelegia
   * **Master Projects (2023-2026)**: TA for Rodrigo Carril/Joan Monràs
-* Undergraduate Level
+  
+* Universitat Pompeu Fabra (Undergraduate)
   * **Topics in Microeconomics (2023-2026)**: TA for Larbi Alaoui/José Apesteguia/Alexander Frug/Rosemarie Nagel/Sandro Shelegia
   * **Information Economics (2023-2025)**: TA for Sandro Shelegia
   * **Microeconomics I (Spring 2023)**: TA for Fabian Gaessler
