@@ -20,8 +20,9 @@ shapes individual and firm behaviour.
 ---
 
 ## Perceived Responsibility for Negative Externalities
-[Download Paper](https://horiaguias.github.io/jmp) 
-[Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
+<p class="paper-links">
+  [Download Paper](https://horiaguias.github.io/jmp) | [Experimental Code](https://github.com/horiaguias/Responsibility-Functions-Experimental-Code)
+</p>
 
 <details style="cursor: pointer; margin-top: 10px;">
   <summary><b>Abstract</b></summary>

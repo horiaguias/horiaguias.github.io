@@ -399,3 +399,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Paper Links
+   ========================================================================== */
+
+
+/* Style small action links under headings */
+.paper-links a {
+  font-size: 0.45rem !important;
+  font-weight: 500;
+}
