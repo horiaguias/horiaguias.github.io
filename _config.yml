@@ -24,13 +24,13 @@ repository               : "horiaguias/horiaguias.github.io"
 author:
   # Biographic information
   avatar           : "picture.png"
-  name             : "Your Sidebar Name"
+  name             : "Horia Guias"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Barcelona"
+  employer         : "Universitat Pompeu Fabra"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "horia.guias@upf.edu"
 
   # Academic websites
   academia         : # URL
