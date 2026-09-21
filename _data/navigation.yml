@@ -1,27 +1,15 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
   - title: "Working Papers"
-    url: /working_papers/
+    url: /#working-papers
 
   - title: "Work in Progress"
-    url: /work_in_progress/
+    url: /#work-in-progress
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /#teaching    
 
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+    url: /#cv
     
   - title: "Guide"
     url: /markdown/
