@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: #000080; /* Updated to navy blue */
+  background: #000080; /* Navy blue background */
   height: fit-content;
   top: 0;
   width: 100%;
@@ -60,7 +60,7 @@
 }
 
 .masthead__menu-item {
-  background-color: transparent; /* Set to transparent to inherit navy blue */
+  background-color: transparent; /* Set to transparent to inherit navy background */
   display: block;
   list-style-type: none;
   white-space: nowrap;
