@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a Behavioral and Experimental Economist and this year I am on the 2026-2027 Econ Job Market! 
 I study theoretically and experimentally how perceived responsibility for negative externalities 
 shapes individual and firm behaviour.
 
 <div style="height: 40px;"></div>
 
-
 ---
-# Working Papers
+# Working Papers {#working-papers}
 ---
 
 ## Perceived Responsibility for Negative Externalities
@@ -33,18 +31,23 @@ shapes individual and firm behaviour.
 
 <div style="height: 10px;"></div>
 
-
 ## Price-Discrimination with Responsibility-Sensitive Consumers
 [Download Paper](https://horiaguias.github.io/pd_responsibility) 
 
-
 **Abstract**
-
 
 <div style="height: 40px;"></div>
 
 ---
-# Teaching Experience
+# Work in Progress {#work-in-progress}
+---
+
+<!-- Add your work in progress here -->
+
+<div style="height: 40px;"></div>
+
+---
+# Teaching Experience {#teaching}
 ---
 
 * Barcelona School of Economics (Graduate)
@@ -57,3 +60,10 @@ shapes individual and firm behaviour.
   * **Microeconomics I (Spring 2023)**: TA for Fabian Gaessler
   * **Análisis de Datos (2023-2025)**: TA for Claudia Sanguinetti (Spanish)
 
+<div style="height: 40px;"></div>
+
+---
+# Curriculum Vitae {#cv}
+---
+
+<!-- Add or embed your CV details/download link here -->
