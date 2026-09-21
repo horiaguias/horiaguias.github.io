@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="364ac675-abf4-453a-abc5-0ada52a568d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-08-14-blog-post-1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2199-01-01-future-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/bibtex1.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/slides1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/slides2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/slides3.pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="364ac675-abf4-453a-abc5-0ada52a568d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
