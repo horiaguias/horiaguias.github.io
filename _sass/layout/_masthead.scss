@@ -49,6 +49,45 @@
   }
 }
 
+/* Fix for the white navigation rectangle (Greedy Nav styling) */
+.greedy-nav {
+  background: #000080; /* Sets main nav container background to navy blue */
+
+  a {
+    color: #ffffff !important; /* Force text color to white */
+
+    &:hover {
+      color: #90caf9 !important; /* Soft light blue on hover */
+    }
+  }
+
+  /* Hamburger menu toggle button for smaller screens */
+  button {
+    background-color: #000080;
+
+    .navicon,
+    .navicon::before,
+    .navicon::after {
+      background: #ffffff; /* Turns hamburger icon bars white */
+    }
+  }
+
+  /* Dropdown menu for overflowing or mobile items */
+  .hidden-links {
+    background: #000080;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+
+    a {
+      color: #ffffff !important;
+
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+        color: #90caf9 !important;
+      }
+    }
+  }
+}
+
 .masthead__menu {
 
   ul {
@@ -72,7 +111,7 @@
 }
 
 .masthead__menu-item.selected a {
-  color: #ffffff;
+  color: #ffffff !important;
   font-weight: 700;
   border-bottom: 2px solid #ffffff;
   pointer-events: none;
@@ -80,6 +119,6 @@
 }
 
 .masthead__menu-item.selected a:hover {
-  color: #ffffff;
+  color: #ffffff !important;
   border-bottom: 2px solid #ffffff;
 }
