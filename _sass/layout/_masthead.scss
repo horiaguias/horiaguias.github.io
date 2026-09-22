@@ -9,17 +9,13 @@
   height: fit-content;
   z-index: 20;
 
-  /*
-   * 1. Fixed extension to .jpg
-   * 2. Lowered overlay opacity to 0.55 for higher image visibility
-   * 3. Shifted position to 'center 25%' to display the upper building section
-   */
+  /* Path updated to point directly to /images/ instead of /assets/images/ */
   background:
     linear-gradient(
       rgba(0, 0, 128, 0.55),
       rgba(0, 0, 128, 0.55)
     ),
-    url('{{ "/assets/images/upf.jpg" | relative_url }}') no-repeat center 25% / cover !important;
+    url('{{ "/images/dortmund.jpg" | relative_url }}') no-repeat center 25% / cover !important;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
