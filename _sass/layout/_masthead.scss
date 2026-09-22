@@ -9,13 +9,17 @@
   height: fit-content;
   z-index: 20;
 
-  /* Combine semi-transparent navy overlay with your photo */
+  /*
+   * 1. Fixed extension to .jpg
+   * 2. Lowered overlay opacity to 0.55 for higher image visibility
+   * 3. Shifted position to 'center 25%' to display the upper building section
+   */
   background:
     linear-gradient(
-      rgba(0, 0, 128, 0.75),
-      rgba(0, 0, 128, 0.75)
+      rgba(0, 0, 128, 0.55),
+      rgba(0, 0, 128, 0.55)
     ),
-    url('/assets/images/upf.jpeg') no-repeat center center / cover !important;
+    url('../images/upf.jpg') no-repeat center 25% / cover !important;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -27,7 +31,7 @@
     position: absolute;
     bottom: 0;
     height: 1px;
-    background: rgba(255, 255, 255, 0.2); /* Soft white border line */
+    background: rgba(255, 255, 255, 0.2);
     width: 100%;
   }
 
