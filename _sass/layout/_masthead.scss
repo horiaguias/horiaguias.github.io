@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: #000080; /* Navy blue background */
+  background: #000080 !important; /* Navy blue background */
   height: fit-content;
   top: 0;
   width: 100%;
@@ -29,6 +29,7 @@
     @include clearfix;
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
+    background: transparent !important;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -36,89 +37,62 @@
 
     nav {
       z-index: 10;
+      background: transparent !important;
     }
 
     a {
       text-decoration: none;
-      color: #ffffff; /* White text for contrast */
-    }
-
-    a:hover {
-      color: #90caf9; /* Soft light blue on hover */
-    }
-  }
-}
-
-/* Fix for the white navigation rectangle (Greedy Nav styling) */
-.greedy-nav {
-  background: #000080; /* Sets main nav container background to navy blue */
-
-  a {
-    color: #ffffff !important; /* Force text color to white */
-
-    &:hover {
-      color: #90caf9 !important; /* Soft light blue on hover */
-    }
-  }
-
-  /* Hamburger menu toggle button for smaller screens */
-  button {
-    background-color: #000080;
-
-    .navicon,
-    .navicon::before,
-    .navicon::after {
-      background: #ffffff; /* Turns hamburger icon bars white */
-    }
-  }
-
-  /* Dropdown menu for overflowing or mobile items */
-  .hidden-links {
-    background: #000080;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-
-    a {
-      color: #ffffff !important;
+      color: #ffffff !important; /* White text */
+      background: transparent !important;
 
       &:hover {
-        background-color: rgba(255, 255, 255, 0.1);
-        color: #90caf9 !important;
+        color: #90caf9 !important; /* Soft light blue on hover */
       }
     }
   }
-}
 
-.masthead__menu {
+  &__menu {
+    background: transparent !important;
 
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
+    ul {
+      margin: 0;
+      padding: 0;
+      clear: both;
+      list-style-type: none;
+      background: transparent !important;
+    }
+  }
+
+  &__menu-item {
+    background-color: transparent !important; /* Removes white fill from list items */
+    background: transparent !important;
+    display: block;
     list-style-type: none;
+    white-space: nowrap;
+
+    &--lg {
+      padding-right: 2em;
+      font-weight: 700;
+    }
+
+    a {
+      background-color: transparent !important;
+      color: #ffffff !important;
+    }
   }
-}
 
-.masthead__menu-item {
-  background-color: transparent; /* Set to transparent to inherit navy background */
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
-
-  &--lg {
-    padding-right: 2em;
+  &__menu-item.selected a {
+    color: #ffffff !important;
     font-weight: 700;
+    border-bottom: 2px solid #ffffff;
+    pointer-events: none;
+    cursor: default;
+    background-color: transparent !important;
   }
-}
 
-.masthead__menu-item.selected a {
-  color: #ffffff !important;
-  font-weight: 700;
-  border-bottom: 2px solid #ffffff;
-  pointer-events: none;
-  cursor: default;
-}
-
-.masthead__menu-item.selected a:hover {
-  color: #ffffff !important;
-  border-bottom: 2px solid #ffffff;
+  &__menu-item.selected a:hover {
+    color: #ffffff !important;
+    border-bottom: 2px solid #ffffff;
+    background-color: transparent !important;
+  }
 }
