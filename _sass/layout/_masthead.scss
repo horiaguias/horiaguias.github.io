@@ -9,7 +9,7 @@
   height: fit-content;
   z-index: 20;
 
-  background: #ffffff url('/images/dortmund.jpg') no-repeat right center / auto 100% !important;
+  background: #ffffff !important; /* Image removed from header */
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
