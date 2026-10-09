@@ -25,6 +25,22 @@
     width: 100%;
   }
 
+  /* Global fallback for links, buttons, and icons in the masthead */
+  a,
+  button,
+  i,
+  svg {
+    color: #000000 !important;
+    fill: #000000 !important;
+
+    &:hover,
+    &:focus,
+    &:active {
+      color: #000000 !important;
+      fill: #000000 !important;
+    }
+  }
+
   &__inner-wrap {
     @include container;
     @include clearfix;
@@ -47,6 +63,49 @@
       background: transparent !important;
 
       &:hover {
+        color: #000000 !important;
+      }
+    }
+  }
+
+  /* Greedy Navigation overrides for menu links and settings toggle */
+  .greedy-nav {
+    background: transparent !important;
+
+    a,
+    .site-title,
+    .visible-links a,
+    .hidden-links a {
+      color: #000000 !important;
+      background: transparent !important;
+
+      &:hover {
+        color: #000000 !important;
+      }
+    }
+
+    button,
+    .greedy-nav__toggle,
+    .search__toggle {
+      color: #000000 !important;
+      background: transparent !important;
+
+      &:hover {
+        color: #000000 !important;
+      }
+
+      i,
+      svg {
+        color: #000000 !important;
+        fill: #000000 !important;
+      }
+
+      .navicon,
+      &::before,
+      &::after,
+      .navicon::before,
+      .navicon::after {
+        background-color: #000000 !important;
         color: #000000 !important;
       }
     }
