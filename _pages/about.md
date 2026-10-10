@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.6; margin-bottom: 1.5rem;">
-  I am a Behavioral and Experimental Economist studying theoretically and experimentally how responsibility for negative externalities drives individual and firm decision-making.
+  As a Behavioral and Experimental Economist, I study theoretically and experimentally how responsibility for negative externalities drives individual and firm decision-making.
 </p>
 
 <!-- Catchy Job Market Box -->
