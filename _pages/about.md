@@ -67,14 +67,14 @@ redirect_from:
 ---
 
 * Barcelona School of Economics (Graduate)
-  * **Industrial Organization (Spring 2024)**: TA for Sandro Shelegia
-  * **Master Projects (2023-2026)**: TA for Rodrigo Carril/Joan Monràs
+  * **Industrial Organization (Spring 2024)**: <span style="font-size: 0.88em; color: #666666;">TA for Sandro Shelegia</span>
+  * **Master Projects (2023-2026)**: <span style="font-size: 0.88em; color: #666666;">TA for Rodrigo Carril/Joan Monràs</span>
   
 * Universitat Pompeu Fabra (Undergraduate)
-  * **Topics in Microeconomics (2023-2026)**: TA for Larbi Alaoui/José Apesteguia/Alexander Frug/Rosemarie Nagel/Sandro Shelegia
-  * **Information Economics (2023-2025)**: TA for Sandro Shelegia
-  * **Microeconomics I (Spring 2023)**: TA for Fabian Gaessler
-  * **Análisis de Datos (2023-2025)**: TA for Claudia Sanguinetti (Spanish)
+  * **Topics in Microeconomics (2023-2026)**: <span style="font-size: 0.88em; color: #666666;">TA for Larbi Alaoui/José Apesteguia/Alexander Frug/Rosemarie Nagel/Sandro Shelegia</span>
+  * **Information Economics (2023-2025)**: <span style="font-size: 0.88em; color: #666666;">TA for Sandro Shelegia</span>
+  * **Microeconomics I (Spring 2023)**: <span style="font-size: 0.88em; color: #666666;">TA for Fabian Gaessler</span>
+  * **Análisis de Datos (2023-2025)**: <span style="font-size: 0.88em; color: #666666;">TA for Claudia Sanguinetti (Spanish)</span>
 
 <div style="height: 40px;"></div>
 
