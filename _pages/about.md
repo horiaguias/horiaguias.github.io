@@ -9,9 +9,9 @@ redirect_from:
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 1; min-width: 260px;">
-    I am a Behavioral and Experimental Economist and this year I am on the 2026-2027 Econ Job Market! 
-    I study theoretically and experimentally how perceived responsibility for negative externalities 
-    shapes individual and firm behaviour.
+    I am a Behavioral and Experimental Economist. 
+    I study theoretically and experimentally how responsibility for negative externalities 
+    drives individual and firm decision-making.
   </div>
   <div style="flex-shrink: 0;">
     <img src="/images/dortmund.jpg" alt="Dortmund" style="max-width: 280px; width: 100%; height: auto; border-radius: 6px;">
