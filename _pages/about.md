@@ -9,18 +9,22 @@ redirect_from:
 
 <div style="font-size: 0.92rem;" markdown="1">
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 3rem; flex-wrap: wrap; margin-bottom: 2rem;">
-  <div style="flex: 1; min-width: 260px;">
-    I am a Behavioral and Experimental Economist. 
-    I study theoretically and experimentally how responsibility for negative externalities 
-    drives individual and firm decision-making.
+<!-- Job Market Hero Banner -->
+<div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; background-color: #f9f9f9; padding: 1.25rem; border-radius: 0 6px 6px 0; margin-bottom: 2rem;">
+  <div style="font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: #555555; margin-bottom: 0.4rem;">
+    🎓 Job Market Candidate 2026–2027
   </div>
-  <div style="flex-shrink: 0; margin-left: auto;">
-    <img src="/images/dortmund.jpg" alt="Dortmund" style="max-width: 280px; width: 100%; height: auto; border-radius: 6px;">
+  <p style="margin: 0 0 1rem 0; line-height: 1.6; color: #111111;">
+    I am a PhD Candidate in Economics at Universitat Pompeu Fabra and Barcelona School of Economics. I am a Behavioral and Experimental Economist studying theoretically and experimentally how responsibility for negative externalities drives individual and firm decision-making.
+  </p>
+  <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+    <a href="https://horiaguias.github.io/jmp" style="display: inline-block; padding: 6px 14px; background-color: #111111; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Job Market Paper</a>
+    <a href="#cv" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Curriculum Vitae</a>
+    <a href="#working-papers" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Research</a>
   </div>
 </div>
 
-<div style="height: 20px;"></div>
+<div style="height: 10px;"></div>
 
 ---
 # Working Papers {#working-papers}
