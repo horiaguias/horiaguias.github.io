@@ -9,14 +9,19 @@ redirect_from:
 
 <div style="font-size: 0.92rem;" markdown="1">
 
-<!-- Job Market Hero Banner -->
+<p style="line-height: 1.6; margin-bottom: 0.8rem;">
+  I am a PhD Candidate in Economics from Universitat Pompeu Fabra.
+</p>
+
+<p style="line-height: 1.6; margin-bottom: 1.5rem;">
+  I am a Behavioral and Experimental Economist studying theoretically and experimentally how responsibility for negative externalities drives individual and firm decision-making.
+</p>
+
+<!-- Catchy Job Market Box -->
 <div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; background-color: #f9f9f9; padding: 1.25rem; border-radius: 0 6px 6px 0; margin-bottom: 2rem;">
-  <div style="font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: #555555; margin-bottom: 0.4rem;">
-    🎓 Job Market Candidate 2026–2027
+  <div style="font-weight: 700; font-size: 1.05rem; color: #111111; margin-bottom: 0.75rem;">
+    🎓 I am on the 2026–2027 Job Market
   </div>
-  <p style="margin: 0 0 1rem 0; line-height: 1.6; color: #111111;">
-    I am a PhD Candidate in Economics at Universitat Pompeu Fabra and Barcelona School of Economics. I am a Behavioral and Experimental Economist studying theoretically and experimentally how responsibility for negative externalities drives individual and firm decision-making.
-  </p>
   <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
     <a href="https://horiaguias.github.io/jmp" style="display: inline-block; padding: 6px 14px; background-color: #111111; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Job Market Paper</a>
     <a href="#cv" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Curriculum Vitae</a>
