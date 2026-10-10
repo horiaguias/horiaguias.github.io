@@ -64,17 +64,33 @@ redirect_from:
 # Teaching Experience {#teaching}
 ---
 
-* Barcelona School of Economics (Graduate)
-  * **Industrial Organization (Spring 2024)**: TA for Sandro Shelegia
-  * **Master Projects (2023-2026)**: TA for Rodrigo Carril/Joan Monràs
-  
-* Universitat Pompeu Fabra (Undergraduate)
-  * **Topics in Microeconomics (2023-2026)**: TA for Larbi Alaoui/José Apesteguia/Alexander Frug/Rosemarie Nagel/Sandro Shelegia
-  * **Information Economics (2023-2025)**: TA for Sandro Shelegia
-  * **Microeconomics I (Spring 2023)**: TA for Fabian Gaessler
-  * **Análisis de Datos (2023-2025)**: TA for Claudia Sanguinetti (Spanish)
+<div style="display: flex; flex-direction: column; gap: 1.25rem; margin-top: 1rem;">
 
-<div style="height: 40px;"></div>
+  <!-- Barcelona School of Economics -->
+  <div style="border-left: 4px solid #2b6cb0; background-color: #f8fafc; padding: 1.2rem; border-radius: 0 6px 6px 0;">
+    <h3 style="margin-top: 0; margin-bottom: 0.75rem; color: #1a202c; font-size: 1.15rem;">
+      Barcelona School of Economics <span style="font-size: 0.9rem; font-weight: normal; color: #718096;">(Graduate)</span>
+    </h3>
+    <ul style="margin: 0; padding-left: 1.2rem; line-height: 1.6;">
+      <li><strong>Industrial Organization</strong> (Spring 2024) — TA for Sandro Shelegia</li>
+      <li><strong>Master Projects</strong> (2023–2026) — TA for Rodrigo Carril and Joan Monràs</li>
+    </ul>
+  </div>
+
+  <!-- Universitat Pompeu Fabra -->
+  <div style="border-left: 4px solid #2b6cb0; background-color: #f8fafc; padding: 1.2rem; border-radius: 0 6px 6px 0;">
+    <h3 style="margin-top: 0; margin-bottom: 0.75rem; color: #1a202c; font-size: 1.15rem;">
+      Universitat Pompeu Fabra <span style="font-size: 0.9rem; font-weight: normal; color: #718096;">(Undergraduate)</span>
+    </h3>
+    <ul style="margin: 0; padding-left: 1.2rem; line-height: 1.6;">
+      <li><strong>Topics in Microeconomics</strong> (2023–2026) — TA for Larbi Alaoui, José Apesteguia, Alexander Frug, Rosemarie Nagel, Sandro Shelegia</li>
+      <li><strong>Information Economics</strong> (2023–2025) — TA for Sandro Shelegia</li>
+      <li><strong>Microeconomics I</strong> (Spring 2023) — TA for Fabian Gaessler</li>
+      <li><strong>Análisis de Datos</strong> <em>(Spanish)</em> (2023–2025) — TA for Claudia Sanguinetti</li>
+    </ul>
+  </div>
+
+</div>
 
 ---
 # Curriculum Vitae {#cv}
