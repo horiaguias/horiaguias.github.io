@@ -67,9 +67,9 @@ redirect_from:
 <div style="display: flex; flex-direction: column; gap: 1.25rem; margin-top: 1rem;">
 
   <!-- Barcelona School of Economics -->
-  <div style="border-left: 4px solid #2b6cb0; background-color: #f8fafc; padding: 1.2rem; border-radius: 0 6px 6px 0;">
-    <h3 style="margin-top: 0; margin-bottom: 0.75rem; color: #1a202c; font-size: 1.15rem;">
-      Barcelona School of Economics <span style="font-size: 0.9rem; font-weight: normal; color: #718096;">(Graduate)</span>
+  <div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; padding: 1.2rem; border-radius: 0 6px 6px 0;">
+    <h3 style="margin-top: 0; margin-bottom: 0.75rem; font-size: 1.15rem;">
+      Barcelona School of Economics <span style="font-size: 0.9rem; font-weight: normal; opacity: 0.7;">(Graduate)</span>
     </h3>
     <ul style="margin: 0; padding-left: 1.2rem; line-height: 1.6;">
       <li><strong>Industrial Organization</strong> (Spring 2024) — TA for Sandro Shelegia</li>
@@ -78,9 +78,9 @@ redirect_from:
   </div>
 
   <!-- Universitat Pompeu Fabra -->
-  <div style="border-left: 4px solid #2b6cb0; background-color: #f8fafc; padding: 1.2rem; border-radius: 0 6px 6px 0;">
-    <h3 style="margin-top: 0; margin-bottom: 0.75rem; color: #1a202c; font-size: 1.15rem;">
-      Universitat Pompeu Fabra <span style="font-size: 0.9rem; font-weight: normal; color: #718096;">(Undergraduate)</span>
+  <div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; padding: 1.2rem; border-radius: 0 6px 6px 0;">
+    <h3 style="margin-top: 0; margin-bottom: 0.75rem; font-size: 1.15rem;">
+      Universitat Pompeu Fabra <span style="font-size: 0.9rem; font-weight: normal; opacity: 0.7;">(Undergraduate)</span>
     </h3>
     <ul style="margin: 0; padding-left: 1.2rem; line-height: 1.6;">
       <li><strong>Topics in Microeconomics</strong> (2023–2026) — TA for Larbi Alaoui, José Apesteguia, Alexander Frug, Rosemarie Nagel, Sandro Shelegia</li>
