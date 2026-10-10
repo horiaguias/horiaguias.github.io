@@ -87,10 +87,5 @@ redirect_from:
 
 <div style="height: 40px;"></div>
 
----
-<h2 id="cv" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Curriculum Vitae</h2>
----
-
-<!-- Add or embed your CV details/download link here -->
 
 </div>
