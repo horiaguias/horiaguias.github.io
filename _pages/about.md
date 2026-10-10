@@ -27,10 +27,10 @@ redirect_from:
 <div style="height: 10px;"></div>
 
 ---
-# Working Papers {#working-papers}
+<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Working Papers</h2>
 ---
 
-## Perceived Responsibility for Negative Externalities
+<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities</h3>
 <p class="paper-links">
   <a href="https://horiaguias.github.io/jmp">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
 </p>
@@ -44,7 +44,7 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
-## Price-Discrimination with Responsibility-Sensitive Consumers
+<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Price-Discrimination with Responsibility-Sensitive Consumers</h3>
 <p class="paper-links">
   <a href="https://horiaguias.github.io/pd_responsibility">Download Paper</a>
 </p>
@@ -59,7 +59,7 @@ redirect_from:
 <div style="height: 40px;"></div>
 
 ---
-# Work in Progress {#work-in-progress}
+<h2 id="work-in-progress" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Work in Progress</h2>
 ---
 
 <!-- Add your work in progress here -->
@@ -67,7 +67,7 @@ redirect_from:
 <div style="height: 40px;"></div>
 
 ---
-# Teaching Experience {#teaching}
+<h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Teaching Experience</h2>
 ---
 
 * Barcelona School of Economics (Graduate)
@@ -83,7 +83,7 @@ redirect_from:
 <div style="height: 40px;"></div>
 
 ---
-# Curriculum Vitae {#cv}
+<h2 id="cv" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Curriculum Vitae</h2>
 ---
 
 <!-- Add or embed your CV details/download link here -->
