@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 3rem; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 1; min-width: 260px;">
     I am a Behavioral and Experimental Economist. 
     I study theoretically and experimentally how responsibility for negative externalities 
     drives individual and firm decision-making.
   </div>
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; margin-left: auto;">
     <img src="/images/dortmund.jpg" alt="Dortmund" style="max-width: 280px; width: 100%; height: auto; border-radius: 6px;">
   </div>
 </div>
