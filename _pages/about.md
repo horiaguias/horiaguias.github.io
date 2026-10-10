@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="font-size: 0.92rem;" markdown="1">
+
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 3rem; flex-wrap: wrap; margin-bottom: 2rem;">
   <div style="flex: 1; min-width: 260px;">
     I am a Behavioral and Experimental Economist. 
@@ -64,36 +66,22 @@ redirect_from:
 # Teaching Experience {#teaching}
 ---
 
-<div style="display: flex; flex-direction: column; gap: 1.25rem; margin-top: 1rem;">
+* Barcelona School of Economics (Graduate)
+  * **Industrial Organization (Spring 2024)**: TA for Sandro Shelegia
+  * **Master Projects (2023-2026)**: TA for Rodrigo Carril/Joan Monràs
+  
+* Universitat Pompeu Fabra (Undergraduate)
+  * **Topics in Microeconomics (2023-2026)**: TA for Larbi Alaoui/José Apesteguia/Alexander Frug/Rosemarie Nagel/Sandro Shelegia
+  * **Information Economics (2023-2025)**: TA for Sandro Shelegia
+  * **Microeconomics I (Spring 2023)**: TA for Fabian Gaessler
+  * **Análisis de Datos (2023-2025)**: TA for Claudia Sanguinetti (Spanish)
 
-  <!-- Barcelona School of Economics -->
-  <div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; padding: 1.2rem; border-radius: 0 6px 6px 0;">
-    <h3 style="margin-top: 0; margin-bottom: 0.75rem; font-size: 1.15rem;">
-      Barcelona School of Economics <span style="font-size: 0.9rem; font-weight: normal; opacity: 0.7;">(Graduate)</span>
-    </h3>
-    <ul style="margin: 0; padding-left: 1.2rem; line-height: 1.6;">
-      <li><strong>Industrial Organization</strong> (Spring 2024) — TA for Sandro Shelegia</li>
-      <li><strong>Master Projects</strong> (2023–2026) — TA for Rodrigo Carril and Joan Monràs</li>
-    </ul>
-  </div>
-
-  <!-- Universitat Pompeu Fabra -->
-  <div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; padding: 1.2rem; border-radius: 0 6px 6px 0;">
-    <h3 style="margin-top: 0; margin-bottom: 0.75rem; font-size: 1.15rem;">
-      Universitat Pompeu Fabra <span style="font-size: 0.9rem; font-weight: normal; opacity: 0.7;">(Undergraduate)</span>
-    </h3>
-    <ul style="margin: 0; padding-left: 1.2rem; line-height: 1.6;">
-      <li><strong>Topics in Microeconomics</strong> (2023–2026) — TA for Larbi Alaoui, José Apesteguia, Alexander Frug, Rosemarie Nagel, Sandro Shelegia</li>
-      <li><strong>Information Economics</strong> (2023–2025) — TA for Sandro Shelegia</li>
-      <li><strong>Microeconomics I</strong> (Spring 2023) — TA for Fabian Gaessler</li>
-      <li><strong>Análisis de Datos</strong> <em>(Spanish)</em> (2023–2025) — TA for Claudia Sanguinetti</li>
-    </ul>
-  </div>
-
-</div>
+<div style="height: 40px;"></div>
 
 ---
 # Curriculum Vitae {#cv}
 ---
 
 <!-- Add or embed your CV details/download link here -->
+
+</div>
