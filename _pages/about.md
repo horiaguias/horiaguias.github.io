@@ -23,7 +23,7 @@ redirect_from:
     🎓 I am on the 2026–2027 Job Market
   </div>
   <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-    <a href="/jmp.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 6px 14px; background-color: #111111; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Job Market Paper</a>
+    <a href="/jmp" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 6px 14px; background-color: #111111; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Job Market Paper</a>
     <a href="/cv.pdf" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Curriculum Vitae</a>
     <a href="#working-papers" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Research</a>
   </div>
@@ -35,7 +35,7 @@ redirect_from:
 
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities</h3>
 <p class="paper-links">
-  <a href="/jmp.pdf" target="_blank" rel="noopener noreferrer">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
+  <a href="/jmp" target="_blank" rel="noopener noreferrer">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
 </p>
 
 <details>
