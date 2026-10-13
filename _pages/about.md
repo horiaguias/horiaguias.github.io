@@ -35,7 +35,7 @@ redirect_from:
 
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities</h3>
 <p class="paper-links">
-  <a href="/files/JMP_Horia.pdf" target="_blank" rel="noopener noreferrer">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
+  <a href="/jmp.pdf" target="_blank" rel="noopener noreferrer">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
 </p>
 
 <details>
