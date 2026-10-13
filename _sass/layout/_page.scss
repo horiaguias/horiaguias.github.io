@@ -426,7 +426,7 @@ details {
   overflow: hidden;
 
   /* 1. REDUCE CARD WIDTH */
-  max-width: 450px; /* Limits maximum width of the expander box */
+  max-width: 100%; /* Limits maximum width of the expander box */
 
   &[open] {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
