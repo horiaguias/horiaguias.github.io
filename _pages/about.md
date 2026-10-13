@@ -31,9 +31,7 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
----
-<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Working Papers</h2>
----
+<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Working Papers</h2>
 
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities</h3>
 <p class="paper-links">
@@ -63,17 +61,13 @@ redirect_from:
 
 <div style="height: 40px;"></div>
 
----
-<h2 id="work-in-progress" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Work in Progress</h2>
----
+<h2 id="work-in-progress" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Work in Progress</h2>
 
 <!-- Add your work in progress here -->
 
 <div style="height: 40px;"></div>
 
----
-<h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0;">Teaching Experience</h2>
----
+<h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Teaching Experience</h2>
 
 * Barcelona School of Economics (Graduate)
   * **Industrial Organization (Spring 2024)**: <span style="font-size: 0.88em; color: #666666;">TA for Sandro Shelegia</span>
@@ -86,6 +80,5 @@ redirect_from:
   * **Análisis de Datos (2023-2025)**: <span style="font-size: 0.88em; color: #666666;">TA for Claudia Sanguinetti (Spanish)</span>
 
 <div style="height: 40px;"></div>
-
 
 </div>
