@@ -23,7 +23,7 @@ repository               : "horiaguias/horiaguias.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepicture.jpeg"
+  avatar           : "profilepicture.jpg"
   name             : "Horia Guias"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Universitat Pompeu Fabra"
