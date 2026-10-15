@@ -328,21 +328,31 @@
    ========================================================================== */
 
 @media (max-width: 1023px) {
-  /* Enlarge profile picture on mobile (maintaining aspect ratio and original square shape) */
+  /* Enlarge profile picture to ~45% of mobile screen width */
   .author__avatar {
-    width: 80px !important;
+    width: 45% !important;
+    max-width: 220px !important; /* Cap width on larger mobile/tablets */
+    display: table-cell !important;
+    vertical-align: middle !important;
 
     img {
       width: 100% !important;
-      height: auto !important;       /* Preserves original image proportions */
-      border-radius: 0 !important;   /* Removes rounded/circular shape */
-      object-fit: cover !important;  /* Prevents image squishing */
+      height: auto !important;       /* Preserves original aspect ratio */
+      border-radius: 0 !important;   /* Keeps clean square corners */
+      object-fit: cover !important;
     }
+  }
+
+  /* Vertically center the author content next to the larger photo */
+  .author__content {
+    display: table-cell !important;
+    vertical-align: middle !important;
+    padding-left: 15px !important;
   }
 
   /* Enlarge author name on mobile */
   .sidebar .author__name {
-    font-size: 1.3rem !important;
+    font-size: 1.35rem !important;
     line-height: 1.2;
   }
 
@@ -366,7 +376,7 @@
     display: flex !important;
     flex-wrap: wrap !important;
     position: static !important;
-    margin-top: 8px !important;
+    margin-top: 10px !important;
     padding: 0 !important;
     border: none !important;
     box-shadow: none !important;
