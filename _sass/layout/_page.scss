@@ -479,3 +479,65 @@ details {
     animation: abstractFadeIn 0.3s ease-out;
   }
 }
+
+/* ==========================================================================
+   JOB MARKET BANNER
+   ========================================================================== */
+
+.job-market-box {
+  border: 1px solid rgba(128, 128, 128, 0.25);
+  border-left: 4px solid #111111;
+  background-color: #f9f9f9;
+  padding: 1.25rem;
+  border-radius: 0 6px 6px 0;
+  margin-bottom: 2rem;
+
+  /* Mobile scaling */
+  @include breakpoint(max-width $small) {
+    padding: 0.85rem 1rem;
+    margin-bottom: 1.25rem;
+  }
+}
+
+.job-market-title {
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #111111;
+  margin-bottom: 0.75rem;
+
+  @include breakpoint(max-width $small) {
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.job-market-btn-group {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.job-market-btn {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  text-decoration: none !important;
+
+  @include breakpoint(max-width $small) {
+    padding: 5px 10px;
+    font-size: 0.78rem;
+  }
+}
+
+.job-market-btn-primary {
+  background-color: #111111;
+  color: #ffffff !important;
+}
+
+.job-market-btn-secondary {
+  background-color: #ffffff;
+  color: #111111 !important;
+  border: 1px solid #cccccc;
+}

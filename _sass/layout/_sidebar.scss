@@ -322,3 +322,60 @@
     }
   }
 }
+
+/* ==========================================================================
+   MOBILE AUTHOR PROFILE FIXES
+   ========================================================================== */
+
+@media (max-width: 1023px) {
+  /* Enlarge profile picture on mobile */
+  .author__avatar {
+    width: 70px !important;
+
+    img {
+      width: 70px !important;
+      height: 70px !important;
+      border-radius: 50%;
+    }
+  }
+
+  /* Enlarge author name on mobile */
+  .sidebar .author__name {
+    font-size: 1.3rem !important;
+    line-height: 1.2;
+  }
+
+  /* Prevent location and social media icon overlap */
+  .author__urls-wrapper {
+    display: block !important;
+    position: static !important;
+  }
+
+  .author__urls {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    position: static !important;
+    margin-top: 8px !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    gap: 0.4rem 0.8rem !important;
+
+    &:before,
+    &:after {
+      display: none !important;
+    }
+
+    li {
+      display: inline-flex !important;
+      align-items: center !important;
+      font-size: 0.85rem !important;
+    }
+
+    a {
+      margin-bottom: 0 !important;
+      padding: 0 !important;
+      font-size: 0.85rem !important;
+    }
+  }
+}

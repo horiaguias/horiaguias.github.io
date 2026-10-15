@@ -18,14 +18,14 @@ redirect_from:
 </p>
 
 <!-- Catchy Job Market Box -->
-<div style="border: 1px solid rgba(128, 128, 128, 0.25); border-left: 4px solid #111111; background-color: #f9f9f9; padding: 1.25rem; border-radius: 0 6px 6px 0; margin-bottom: 2rem;">
-  <div style="font-weight: 700; font-size: 1.05rem; color: #111111; margin-bottom: 0.75rem;">
+<div class="job-market-box">
+  <div class="job-market-title">
     🎓 I am on the 2026–2027 Job Market
   </div>
-  <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-    <a href="/jmp" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 6px 14px; background-color: #111111; color: #ffffff; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Job Market Paper</a>
-    <a href="/cv" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Curriculum Vitae</a>
-    <a href="#working-papers" style="display: inline-block; padding: 6px 14px; background-color: #ffffff; color: #111111; border: 1px solid #cccccc; text-decoration: none; border-radius: 4px; font-size: 0.85rem; font-weight: 500;">Research</a>
+  <div class="job-market-btn-group">
+    <a href="/jmp" target="_blank" rel="noopener noreferrer" class="job-market-btn job-market-btn-primary">Job Market Paper</a>
+    <a href="/cv" class="job-market-btn job-market-btn-secondary">Curriculum Vitae</a>
+    <a href="#working-papers" class="job-market-btn job-market-btn-secondary">Research</a>
   </div>
 </div>
 
