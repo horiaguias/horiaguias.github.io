@@ -31,7 +31,7 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
-<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Working Papers</h2>
+<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Job Market Paper</h2>
 
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities</h3>
 <p class="paper-links">
@@ -47,6 +47,9 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
+<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Other Working Papers</h2>
+
+
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Price-Discrimination with Responsibility-Sensitive Consumers</h3>
 <p class="paper-links">
   <a href="https://horiaguias.github.io/iopaper">Download Paper</a>
@@ -61,6 +64,14 @@ redirect_from:
 
 <div style="height: 40px;"></div>
 
+<h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem; border-bottom: none;">References</h2>
+
+* Prof. Larbi Alaoui (Advisor) - <i>Universitat Pompeu Fabra</i>[<a href=larbi.alaoui@upf.edu>E-Mail: larbi.alaoui@upf.edu</a>]
+* Prof. Rosemarie Nagel - <i>Universitat Pompeu Fabra</i>[<a href=rosemarie.nagel@upf.edu>E-Mail: rosemarie.nagel@upf.edu</a>]
+* Prof. Chiara Aina - <i>Universitat Pompeu Fabra</i>[<a href=chiara.aina@upf.edu>E-Mail: chiara.aina@upf.edu</a>]
+
+
+<div style="height: 40px;"></div>
 
 <h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Teaching Experience</h2>
 
