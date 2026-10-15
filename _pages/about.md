@@ -66,9 +66,9 @@ redirect_from:
 
 <h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem; border-bottom: none;">References</h2>
 
-* Prof. Larbi Alaoui (Advisor) - <i>Universitat Pompeu Fabra</i>[<a href="mailto:larbi.alaoui@upf.edu">E-Mail</a>]
-* Prof. Rosemarie Nagel - <i>Universitat Pompeu Fabra</i>[<a href="mailto:rosemarie.nagel@upf.edu">E-Mail</a>]
-* Prof. Chiara Aina - <i>Universitat Pompeu Fabra</i>[<a href="mailto:chiara.aina@upf.edu">E-Mail</a>]
+* Prof. Larbi Alaoui (Advisor) - <i>Universitat Pompeu Fabra</i> [<a href="mailto:larbi.alaoui@upf.edu">E-Mail</a>]
+* Prof. Rosemarie Nagel - <i>Universitat Pompeu Fabra</i> [<a href="mailto:rosemarie.nagel@upf.edu">E-Mail</a>]
+* Prof. Chiara Aina - <i>Universitat Pompeu Fabra</i> [<a href="mailto:chiara.aina@upf.edu">E-Mail</a>]
 
 
 <div style="height: 40px;"></div>
