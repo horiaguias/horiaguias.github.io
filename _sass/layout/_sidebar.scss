@@ -328,14 +328,15 @@
    ========================================================================== */
 
 @media (max-width: 1023px) {
-  /* Enlarge profile picture on mobile */
+  /* Enlarge profile picture on mobile (maintaining aspect ratio and original square shape) */
   .author__avatar {
-    width: 70px !important;
+    width: 80px !important;
 
     img {
-      width: 70px !important;
-      height: 70px !important;
-      border-radius: 50%;
+      width: 100% !important;
+      height: auto !important;       /* Preserves original image proportions */
+      border-radius: 0 !important;   /* Removes rounded/circular shape */
+      object-fit: cover !important;  /* Prevents image squishing */
     }
   }
 
@@ -356,7 +357,7 @@
     position: static !important;
 
     button {
-      display: none !important; /* Hides the mobile dropdown button */
+      display: none !important;
     }
   }
 
