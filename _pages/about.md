@@ -61,11 +61,6 @@ redirect_from:
 
 <div style="height: 40px;"></div>
 
-<h2 id="work-in-progress" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Work in Progress</h2>
-
-<!-- Add your work in progress here -->
-
-<div style="height: 40px;"></div>
 
 <h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Teaching Experience</h2>
 
