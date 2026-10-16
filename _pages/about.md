@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.6; margin-bottom: 1.5rem;">
-  I work on research in Behavioural Economics using Theoretical and Experimental Methods. I investigate how perceived responsibility for negative externalities drives individual and firm decision-making.
+  I work on research in Behavioural Economics using Theoretical and Experimental Methods. I investigate how perceived responsibility for negative externalities drives decision-making.
 </p>
 
 <!-- Catchy Job Market Box -->
