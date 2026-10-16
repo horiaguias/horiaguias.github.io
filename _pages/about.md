@@ -20,7 +20,7 @@ redirect_from:
 <!-- Catchy Job Market Box -->
 <div class="job-market-box">
   <div class="job-market-title">
-    🎓 I am on the 2026–2027 Job Market
+     I am on the 2026–2027 Job Market
   </div>
   <div class="job-market-btn-group">
     <a href="/jmp" target="_blank" rel="noopener noreferrer" class="job-market-btn job-market-btn-primary">Job Market Paper</a>
