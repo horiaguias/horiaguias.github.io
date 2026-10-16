@@ -52,7 +52,7 @@ redirect_from:
 
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Price-Discrimination with Responsibility-Sensitive Consumers</h3>
 <p class="paper-links">
-  <a href="https://horiaguias.github.io/iopaper">Download Paper</a>
+  <a href="/iopaper" target="_blank" rel="noopener noreferrer">Download Paper</a>
 </p>
 
 <details>
