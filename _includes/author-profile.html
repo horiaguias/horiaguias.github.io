@@ -30,6 +30,11 @@
         <li><a href="mailto:{{ author.email }}" title="Email"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a></li>
       {% endif %}
 
+      <!-- Curriculum Vitae Icon -->
+      {% if author.cv %}
+        <li><a href="{{ author.cv | relative_url }}" title="Curriculum Vitae" target="_blank" rel="noopener noreferrer"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i></a></li>
+      {% endif %}
+
       <!-- Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}" title="Academia"><i class="ai ai-academia ai-fw" aria-hidden="true"></i></a></li>
@@ -170,6 +175,15 @@
     {% if author.location %}
       <div style="margin-top: 0.5rem; color: #666666; font-size: 0.85rem;">
         <i class="fas fa-fw fa-location-dot" aria-hidden="true" style="margin-right: 0.3rem;"></i>{{ author.location }}
+      </div>
+    {% endif %}
+
+    <!-- Explicit CV Link below Location -->
+    {% if author.cv %}
+      <div style="margin-top: 0.4rem; font-size: 0.85rem;">
+        <a href="{{ author.cv | relative_url }}" target="_blank" rel="noopener noreferrer" style="color: #4a5568; text-decoration: none; font-weight: 500;">
+          <i class="fas fa-fw fa-file-pdf" aria-hidden="true" style="margin-right: 0.3rem;"></i>Curriculum Vitae
+        </a>
       </div>
     {% endif %}
   </div>
