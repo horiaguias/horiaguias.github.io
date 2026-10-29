@@ -21,7 +21,7 @@
       <p class="author__bio">
         {{ author.bio | replace: ", ", "<br>" }}
         {% if author.cv %}
-          <br><a href="{{ author.cv | relative_url }}" target="_blank" rel="noopener noreferrer" style="color: #9b111e; text-decoration: underline; font-weight: 500;">CV</a>
+          <br><a href="{{ author.cv | relative_url }}" target="_blank" rel="noopener noreferrer" style="color: #9b111e; font-weight: 500;">CV</a>
         {% endif %}
       </p>
     {% elsif author.cv %}
