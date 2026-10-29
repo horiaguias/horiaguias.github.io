@@ -27,7 +27,6 @@ redirect_from:
       <a href="/jmp" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; font-weight: 600; text-decoration: none;">Job Market Paper</a>
       <span style="color: #cbd5e0;">|</span>
       <a href="/cv" style="color: #4a5568; text-decoration: none;">Curriculum Vitae</a>
-      <span style="color: #cbd5e0;">|</span>
     </span>
   </div>
 </div>
