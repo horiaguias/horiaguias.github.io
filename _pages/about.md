@@ -34,9 +34,9 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
-<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Job Market Paper</h2>
+<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Working Papers</h2>
 
-<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities</h3>
+<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities <b>[Job Market Paper]</b></h3>
 <p class="paper-links">
   <a href="/jmp" target="_blank" rel="noopener noreferrer">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
 </p>
@@ -49,8 +49,6 @@ redirect_from:
 </details>
 
 <div style="height: 10px;"></div>
-
-<h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Other Working Papers</h2>
 
 
 <h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Price-Discrimination with Responsibility-Sensitive Consumers</h3>
