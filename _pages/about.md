@@ -24,8 +24,6 @@ redirect_from:
       I am on the 2026–2027 Job Market
     </span>
     <span style="display: flex; gap: 12px; align-items: center;">
-      <a href="/jmp" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; font-weight: 600; text-decoration: none;">Job Market Paper</a>
-      <span style="color: #cbd5e0;">|</span>
       <a href="/cv" style="color: #4a5568; text-decoration: none;">Curriculum Vitae</a>
     </span>
   </div>
