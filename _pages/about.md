@@ -23,9 +23,6 @@ redirect_from:
     <span style="font-weight: 500; color: #2d3748;">
       I am on the 2026–2027 Job Market
     </span>
-    <span style="display: flex; gap: 12px; align-items: center;">
-      <a href="/cv" style="color: #4a5568; text-decoration: none;">Curriculum Vitae</a>
-    </span>
   </div>
 </div>
 
