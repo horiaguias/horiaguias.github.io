@@ -28,7 +28,6 @@ redirect_from:
       <span style="color: #cbd5e0;">|</span>
       <a href="/cv" style="color: #4a5568; text-decoration: none;">Curriculum Vitae</a>
       <span style="color: #cbd5e0;">|</span>
-      <a href="#working-papers" style="color: #4a5568; text-decoration: none;">Research</a>
     </span>
   </div>
 </div>
