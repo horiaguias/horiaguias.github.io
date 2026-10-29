@@ -30,7 +30,7 @@ redirect_from:
 
 <h2 id="working-papers" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem 0; border-bottom: none;">Working Papers</h2>
 
-<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities <b>[Job Market Paper]</b></h3>
+<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Perceived Responsibility for Negative Externalities <span style="color: #9b111e; font-weight: 600;">[Job Market Paper]</span></h3>
 <p class="paper-links">
   <a href="/jmp" target="_blank" rel="noopener noreferrer">Download Paper</a> | <a href="https://github.com/horiaguias/Responsibility-Functions-Experimental-Code">Experimental Code</a>
 </p>
