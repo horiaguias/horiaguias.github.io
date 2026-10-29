@@ -18,17 +18,18 @@ redirect_from:
 </p>
 
 <!-- Subtle Banner Option 2: Status Pill Callout -->
-<div style="padding: 10px 14px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; margin: 1.2rem 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-size: 0.88rem;">
-  <div style="display: flex; align-items: center; gap: 8px;">
-    <span style="background-color: #edf2f7; color: #4a5568; font-size: 0.78rem; font-weight: 600; padding: 2px 8px; border-radius: 12px; text-transform: uppercase; letter-spacing: 0.03em;">
-      Job Market Candidate
+<div style="background-color: #f8f9fa; border: 1px solid #e9ecef; border-left: 3px solid #4a5568; border-radius: 6px; padding: 12px 18px; margin: 1.2rem 0; font-size: 0.9rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+    <span style="font-weight: 500; color: #2d3748;">
+      I am on the 2026–2027 Job Market
     </span>
-    <span style="color: #4a5568; font-weight: 500;">2026–2027</span>
-  </div>
-  <div style="display: flex; gap: 12px; font-size: 0.88rem;">
-    <a href="/jmp" target="_blank" rel="noopener noreferrer" style="font-weight: 600; color: #2b6cb0; text-decoration: none;">Job Market Paper &rarr;</a>
-    <a href="/cv" style="color: #4a5568; text-decoration: none;">CV</a>
-    <a href="#working-papers" style="color: #4a5568; text-decoration: none;">Research</a>
+    <span style="display: flex; gap: 12px; align-items: center;">
+      <a href="/jmp" target="_blank" rel="noopener noreferrer" style="color: #2b6cb0; font-weight: 600; text-decoration: none;">Job Market Paper</a>
+      <span style="color: #cbd5e0;">|</span>
+      <a href="/cv" style="color: #4a5568; text-decoration: none;">Curriculum Vitae</a>
+      <span style="color: #cbd5e0;">|</span>
+      <a href="#working-papers" style="color: #4a5568; text-decoration: none;">Research</a>
+    </span>
   </div>
 </div>
 
