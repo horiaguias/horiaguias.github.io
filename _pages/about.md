@@ -17,15 +17,18 @@ redirect_from:
   I work on research in Behavioural Economics using Theoretical and Experimental Methods. I investigate how perceived responsibility for negative externalities drives decision-making.
 </p>
 
-<!-- Catchy Job Market Box -->
-<div class="job-market-box">
-  <div class="job-market-title">
-     I am on the 2026–2027 Job Market
+<!-- Subtle Banner Option 2: Status Pill Callout -->
+<div style="padding: 10px 14px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 6px; margin: 1.2rem 0; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; font-size: 0.88rem;">
+  <div style="display: flex; align-items: center; gap: 8px;">
+    <span style="background-color: #edf2f7; color: #4a5568; font-size: 0.78rem; font-weight: 600; padding: 2px 8px; border-radius: 12px; text-transform: uppercase; letter-spacing: 0.03em;">
+      Job Market Candidate
+    </span>
+    <span style="color: #4a5568; font-weight: 500;">2026–2027</span>
   </div>
-  <div class="job-market-btn-group">
-    <a href="/jmp" target="_blank" rel="noopener noreferrer" class="job-market-btn job-market-btn-primary">Job Market Paper</a>
-    <a href="/cv" class="job-market-btn job-market-btn-secondary">Curriculum Vitae</a>
-    <a href="#working-papers" class="job-market-btn job-market-btn-secondary">Research</a>
+  <div style="display: flex; gap: 12px; font-size: 0.88rem;">
+    <a href="/jmp" target="_blank" rel="noopener noreferrer" style="font-weight: 600; color: #2b6cb0; text-decoration: none;">Job Market Paper &rarr;</a>
+    <a href="/cv" style="color: #4a5568; text-decoration: none;">CV</a>
+    <a href="#working-papers" style="color: #4a5568; text-decoration: none;">Research</a>
   </div>
 </div>
 
