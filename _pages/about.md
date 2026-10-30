@@ -14,7 +14,7 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.6; margin-bottom: 1.5rem;">
-  My research interests span Behavioural Economics, Microeconomic Theory and Experimental Methods. I investigate theoretically and experimentally how perceived responsibility for negative externalities affects decision-making.
+  My research interests span Behavioural Economics, Microeconomic Theory and Experimental Methods. Using theory and experiments, I investigate how perceived responsibility for negative externalities affects decision-making.
 </p>
 
 <!-- Subtle Banner Option 2: Status Pill Callout -->
