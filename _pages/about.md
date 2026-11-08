@@ -46,7 +46,7 @@ redirect_from:
 <div style="height: 10px;"></div>
 
 
-<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Price-Discrimination with Responsibility-Sensitive Consumers</h3>
+<h3 style="font-size: 1.1rem; font-weight: 600; margin-bottom: 0.4rem;">Monopoly Screening of Environmentally Conscious Consumers with Voluntary Carbon Offsets</h3>
 <p class="paper-links">
   <a href="/iopaper" target="_blank" rel="noopener noreferrer">Download Paper</a>
 </p>
