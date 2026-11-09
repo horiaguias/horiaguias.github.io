@@ -63,7 +63,7 @@ redirect_from:
 <h2 id="teaching" style="font-size: 1.3rem; font-weight: 600; margin: 0.5rem; border-bottom: none;">References</h2>
 
 * <a href="https://larbialaoui.com/" target="_blank" rel="noopener noreferrer">Prof. Larbi Alaoui (Advisor)</a> - <i>Universitat Pompeu Fabra</i> [<a href="mailto:larbi.alaoui@upf.edu">E-Mail</a>]
-* Prof. Rosemarie Nagel - <i>Universitat Pompeu Fabra</i> [<a href="mailto:rosemarie.nagel@upf.edu">E-Mail</a>]
+* <a href="https://www.upf.edu/web/rosemarie-nagel" target="_blank" rel="noopener noreferrer">Prof. Rosemarie Nagel</a> - <i>Universitat Pompeu Fabra</i> [<a href="mailto:rosemarie.nagel@upf.edu">E-Mail</a>]
 * <a href="https://chiaraaina.github.io/" target="_blank" rel="noopener noreferrer">Prof. Chiara Aina</a> - <i>Universitat Pompeu Fabra</i> [<a href="mailto:chiara.aina@upf.edu">E-Mail</a>]
 
 
