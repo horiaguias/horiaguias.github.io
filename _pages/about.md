@@ -76,7 +76,7 @@ redirect_from:
   * **Master Projects (2023-2026)**: <br> <span style="font-size: 0.88em; color: #666666;">TA for <span style="color: #9b111e;">Rodrigo Carril</span>/<span style="color: #9b111e;">Joan Monràs</span></span>
   
 * Universitat Pompeu Fabra (Undergraduate)
-  * **Topics in Microeconomics (2023-2026)**: <br> <span style="font-size: 0.88em; color: #666666;">TA for <span style="color: #9b111e;">Larbi Alaoui</span>/<span style="color: #9b111e;">José Apesteguia</span>/<span style="color: #9b111e;">Alexander Frug</span>/<span style="color: #9b111e;">Rosemarie Nagel</span>/<span style="color: #9b111e;">Sandro Shelegia</span></span>
+  * **Topics in Microeconomics (2023-2026)**: <br> <span style="font-size: 0.88em; color: #666666;">TA for <span style="color: #9b111e;">Larbi Alaoui</span>/<span style="color: #9b111e;">Jose Apesteguia</span>/<span style="color: #9b111e;">Alexander Frug</span>/<span style="color: #9b111e;">Rosemarie Nagel</span>/<span style="color: #9b111e;">Sandro Shelegia</span></span>
   * **Information Economics (2023-2025)**: <br> <span style="font-size: 0.88em; color: #666666;">TA for <span style="color: #9b111e;">Sandro Shelegia</span></span>
   * **Microeconomics I (Spring 2023)**: <br> <span style="font-size: 0.88em; color: #666666;">TA for <span style="color: #9b111e;">Fabian Gaessler</span></span>
   * **Análisis de Datos (2023-2025)**: <br> <span style="font-size: 0.88em; color: #666666;">TA for <span style="color: #9b111e;">Claudia Sanguinetti</span> (Spanish)</span>
